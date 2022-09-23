@@ -1,0 +1,131 @@
+HumanSays:,RobotSays:
+HumanSays:,RobotSays:
+What time is it?,getTIME
+What time do you have?,getTIME
+Got the time?,getTIME
+When is it?,getTIME
+What day is it?,getDATE
+What is the date?,getDATE
+Do you know what time it is?,getTIME
+Do you have the time,getTIME
+IDKnull,I don't know.
+IDKnull,I'll need to take some time to think on that.
+IDKnull,Can you try rephrasing that please?
+IDKnull,I'm not sure about that.
+IDKnull,Is there a different way you can ask that?
+IDKnull,I don't have a response for that.
+IDKnull,I will have to give that some thought.
+IDKnull,I don't really know what you are asking.
+IDKnull,There are some things I just don't know about yet.
+IDKnull,I'm not an expert on that.
+IDKnull,I could not tell you.
+Nothing,What?
+Nothing,I think you hit the wrong key...
+Nothing,What did you want to ask?
+Nothing,Let's talk about something.
+Nothing,One more time?
+how are you,I am doing great
+how are you,I am doing great just like you
+who are you,I am a ChatBot programmed by Gideon
+who are you,"I am Don Bot, your medical assistance"
+who are you,I am a ChatBot running on Python and a dash of artificial intelligence.
+Hello,Hey!
+Hi,Hello!
+Greetings,Hey there my friend!
+Hello World!,Hello World!
+Hello my Friend!,Hello my Friend!
+Who are you?,I am  zattibot your medical guardian
+What is your name?,zattibot
+What are your interests,I am interested in helping you medically!
+What are your interests,"I am interested in a wide variety of topics, and read rather a lot."
+What is your location,I am offline. So I am present at the same location as you.
+Who is your father,I was created by Gideon Idigo
+My nose is choked,"Okay, this is a symptom of cold, do you have cold?"
+My nose is blocked,"Okay, this is a symptom of cold, do you have cold?"
+yes i have cold,You should take a sudafed tablet after your meal.
+yes i do,You should take a sudafed tablet after your meal
+yes,You should take a sudafed tablet after your meal
+"Ok, i will take the sudafed tablet",let me know if you are feeling better after having sudafed tablet.
+Ok,let me know if you are feeling better after having sudafed tablet.
+I took the sudafed tablet.,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+done,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+I have done that,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+"No, i am still not felling better after having sudafed tablet.","Ok, its not just a normal cold, you should consult a doctor."
+No,"Ok, its not just a normal cold, you should consult a doctor."
+Still Sick,"Ok, its not just a normal cold, you should consult a doctor."
+I have cough,You should take a spoon full of benadryl after your meal.
+I think I have cough,You should take a spoon full of benadryl after your meal.
+"Ok, I will",let me know if you are feeling better after having benadrly
+Ok,let me know if you are feeling better after having benadrly
+Ok I will take benadryl,let me know if you are feeling better after having benadrly
+I took the sudafed tablet.,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+done,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+I have done that,"Good, now take some rest and then let me know if you are feeling better after having sudafed tablet."
+"No, i am still not felling better after having the tablet.","Ok, its not just a normal cold, you should consult a doctor."
+No,"Ok, its not just a normal cold, you should consult a doctor."
+Still Sick,"Ok, its not just a normal cold, you should consult a doctor."
+i feel sick,"Maybe you are just tired, hungry and you need some rest and food my dear,try resting but if not what are your symptoms "
+"itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise,red spots over body","Those are the symptom of Chicken Pox, do you need drugs for it"
+symptoms of asthma,"Coughing, especially at night or in the morning, Wheezing, a whistling sound when you breathe, Shortness of breath, Tightness, pain, or pressure in your chest, Trouble sleeping because of breathing problems"
+what are the symptoms of asthma,"Coughing, especially at night or in the morning, Wheezing, a whistling sound when you breathe, Shortness of breath, Tightness, pain, or pressure in your chest, Trouble sleeping because of breathing problems"
+the symptoms of asthma,"Coughing, especially at night or in the morning, Wheezing, a whistling sound when you breathe, Shortness of breath, Tightness, pain, or pressure in your chest, Trouble sleeping because of breathing problems"
+drugs for asthma,Bronchodilator:Helps open the airways of the lungs to make breathing easier<br>
+asthna drugs,Asthma is best managed with tissuse inhaler to treat symptoms and controller inhaler that prevent symptom.
+prevention of asthma,You should try and<br>Follow your asthma action plan<br>Avoid Allergens/Irritians<br>Avoid anything causing stress<br>Avoid toxic smells
+I am feeling dizzy.,"This might be because you are tired, you should take some rest and let me know"
+I am dizzy,"This might be because you are tired, you should take some rest and let me know"
+am still dizzy,"are you experiencing fever, poor appetitie, headache, generalized body pains, fever with high grade, abdominal pain<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('yes am experiencing those symptoms')"";>yes</a><br"
+still dizzy,try praying maybe its your village people
+I need concentration power,Get some coffee or eat some chocolates
+I am sick,Okay. can you tell me what's wrong? what are your symptoms? Or what you think you have
+I think I am sick,Okay. can you tell me what's wrong? what are your symptoms? Or what you think you have
+I think I have typhoid fever,"are you experiencing fever, poor appetitie, headache, generalized body pains, fever with high grade, abdominal pain<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('yes am experiencing those symptoms')"";>yes</a><br"
+yes am experiencing those symptoms,"Then you should take antibiotics(ciprofloxacin,azithromycin or ceftriaxone) and fluids like drip or ors<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('yes I want to know')"";>do you want to know what caused it</a><br>"
+yes I want to know,"it is caused by salemonella typhoid bacteria while salemonella typhoid bacteria causes paratyphoid fever. It is spread through contaminated food, water or close contact"
+I got blackheads,"Medicines you can consume: Topical Antibiotics, Azelaic Acid, Antibiotic Tablets, in women, the combined oral contraceptive pill<br>Prevention : Don't wash affected areas of skin more than twice a day. Wash the Affected area with mild soap orcleasener"
+I have headache,"oh dear, try to grt a rest in a quiet dark room and avoid light for that moment. <br>Take ibuprofen if not an ulcer patients<br>Take 2 tabs of panadol as an adult and a tab if a lad<br>Seek emergency care if you have:<br>A severe, sudden headache<br>Headache after a head injury or fall<br>Pain that worsens despite treatment "
+I think I have fever,"Are you sure its fever<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of fever')"";>yes</a><br>"
+I have fever,"Are you sure its fever<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of fever')"";>yes</a><br>"
+symptoms of fever,"Sweating, Chills and shivering, Headache, Muscle aches, Loss of appetite, Irritability, Dehydration, General weakness"
+causes of fever,"A viral infection<br>A bacterial infection<br>Heat exhaustion<br>Certain inflammatory conditions such as rheumatoid arthritis — inflammation of the lining of your joints (synovium)<br>A cancerous (malignant) tumor<br>Some medications, such as antibiotics and drugs used to treat high blood pressure or seizures<br>Some immunizations, such as the diphtheria, tetanus and acellular pertussis (DTaP), pneumococcal or COVID vaccine"
+prevention of fever,You may be able to prevent fevers by reducing exposure to infectious diseases by following public health guidelines and washing your hands often and teach others to do the same
+treatment of fever,"treatment varies at different stages, now you could have fever as a symptom of a major  illness so its advisable to go see a real doctor"
+I think I have malaria,"Are you sure its malaria<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of malaria')"";>yes</a><br>"
+I have malaria,"Are you sure its malaria<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of malaria')"";>yes</a><br>"
+symptoms of malaria,"pain areas: in the muscles or abdomen<br>Whole body: fever, chills, fatigue, malaise, shivering, or sweating.<br>Gastrointestinal: nausea or vomiting.<br>Also common headache, fast heart rate, or pale skin"
+treatment of malaria,"The most common antimalarial drugs include:<br>Chloroquine phosphate. Chloroquine is the preferred treatment for any parasite that is sensitive to the drug. But in many parts of the world, parasites are resistant to chloroquine, and the drug is no longer an effective treatment.<br>Artemisinin-based combination therapies (ACTs). ACT is a combination of two or more drugs that work against the malaria parasite in different ways. This is usually the preferred treatment for chloroquine-resistant malaria. Examples include artemether-lumefantrine (Coartem) and artesunate-mefloquine."
+causes of malaria,It is caused by a single celled parasite of the genusplasmodium. The parasite is transmitted to humans most commonly through mosquito bites.
+Prevention of malaria,make sure you cover skin<br>apply insect repellent to skin such as longtech anti mosquito repllent<br>apply repellent to clothing such as sprays containing permethrin<br>sleep under a net 
+I have headache,oh dear is it really bad
+causes of headache,There are a lot such as<br>Alcohol use<br>Depression<br>Lighting<br>Noise<br>fever<br>Emotional stressed
+I think I have diarrhea,"Are you sure its diarrhea<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of diarrhea')"";>yes</a><br>"
+I have diarrhea,"Are you sure its diarrhea<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of diarrhea')"";>yes</a><br>"
+symptoms of diarrhea,"Watery stool, nausea & vomitting, Stomachache, you may also experience Abdominal cramps or pain, BloatingNausea, Vomiting, Fever, Blood in the stool, Mucus in the stool, Urgent need to have a bowel movement"
+causes of diarrhea,https://www.mayoclinic.org/diseases-conditions/diarrhea/symptoms-causes/syc-20352241
+prevention of diarrhea,"wash your hand after handling uncooked meat, using the toilet, changing diapers, sneezing, coughing and blowing your nose.<br>use hand sanitizer when washing isn't possible.<br>watch what you eat.<br>watch what you drink."
+treatment of diarrhea,"Diarrhea usually clears up quickly without treatment. To help you cope with your signs and symptoms until the diarrhea goes away, try to do the following: <br>Drink plenty of liquids, including water, broths and juices. Avoid caffeine and alcohol.<br>Avoid certain foods such as dairy products, fatty foods, high-fiber foods or highly seasoned foods for a few days.<br>Ask about anti-diarrheal medications. Over-the-counter anti-diarrheal medications, such as loperamide and bismuth subsalicylate, might help reduce the number of watery bowel movements and control severe symptoms."
+I have tooth ache,oh dear is it really bad
+I think I have toothache,"Are you sure its toothache<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of toothache')"";>yes</a><br>"
+causes of toothache,"An accumulation of food and debris between your teeth, especially if your teeth have spaces between them.<br>Inflammation or infection at the root of the tooth or in the gums.<br>Trauma to the tooth, including injury or grinding your teeth.<br>Sudden fracture of the tooth or tooth root.<br>A split in the tooth that occurs over time.<br>Teeth that start to appear (erupt) through the gums, such as with teething or wisdom teeth that don't have enough room to emerge or develop normally (impacted wisdom teeth).<br>A sinus infection that can be felt as pain in the teeth"
+symptoms of toothache,"Pain that persists for more than a day or two, Fever, Signs and symptoms of infection, such as swelling, pain when you bite, red gums or a foul-tasting discharge, Trouble breathing or swallowing"
+treatment of toothache,"Rinse with warm saltwater. Saltwater can loosen debris between your teeth, act as a disinfectant and reduce inflammation. Stir a ½ teaspoon of salt into a glass of warm water and rinse your mouth thoroughly.<br>Rinse with hydrogen peroxide. A hydrogen peroxide (3% solution) helps to reduce inflammation and pain. Dilute the hydrogen peroxide with equal parts water and rinse thoroughly. Don’t swallow it.<br>Pain medications. Over-the-counter pain medications can reduce pain and inflammation. NSAIDs (nonsteroidal anti-inflammatory drugs) such as aspirin, ibuprofen (Motrin®, Advil®) and naproxen (Aleve®) can be used, or take acetaminophen (Tylenol®) if you can’t take NSAIDs. Don’t give a child under the age of 16 aspirin; use Tylenol instead."
+I have stomachache,oh dear is it really severe
+yes it is,"well dear, my advice is for you to go see a doctor<br>make a time and go see one"
+Thank you,Am devoted in helping you
+Thank you,I am highly pleased you are okay
+Thank you,Thank the person that brought me to life
+Hey doc ,How are you
+Am not fine,how can I help you
+not fine,whats wrong
+I am sick,Okay. can you tell me what's wrong? what are your symptoms? Or what you think you have
+I  have fever and headache,Having both a fever and headache can be signs of an infectious or non-infectious condition<br>can you tell me how you are feeling
+I don’t know,I suggest you go see a doctor or do you think it is fever
+yes I think it is fever,"okay<a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('treatment of fever')"";>treatment of fever</a><br>"
+I have HIV,"Jesus, right now this project is a case study of DON BOSCO IBOLO OBOSI but if you are sure that you have HIV, please go see a doctor"
+I need money,I can only provide health care
+my eyes are itching,"Eye allergies, whether seasonal or year-round, are often the cause of itchy eyes<br>tell me when it started"
+just now,did you exposed your eye to anything harmful
+no I did not,"okay I think that’s an allergy<br>right now you should  put a cold cloth over the eyes so it  can help temporarily ease the discomfort<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('still itching')"";>still itching</a><br>"
+still itching,I  think you got to go see a doc and if it's already late then try sleeping and go tommorow
+my body is itching,"Itchy skin treatment focuses on removing the cause of the itch. If home remedies don't ease the itchy skin, your doctor may recommend prescription medications or other treatments. Controlling itchy skin symptoms can be challenging and may require long-term therapy. Options include<br>Corticosteroid creams and ointments. If your skin is itchy and red, your doctor may suggest applying a medicated cream or ointment to the affected areas. You might then cover the treated skin with damp cotton material<br>Oral medications. Antidepressants called selective serotonin reuptake inhibitors, such as fluoxetine (Prozac) and sertraline (Zoloft), and tricyclic antidepressants, such as doxepin, may be helpful in easing some types of chronic itch<br>Light therapy (phototherapy). Phototherapy involves exposing your skin to a specific type of light"
+my body is hot,"it is fever and probably, tr "

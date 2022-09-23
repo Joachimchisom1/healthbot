@@ -1,0 +1,223 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Garamond;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.body {
+  box-sizing: border-box;
+      background-color: transparent;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      display: flex;
+      align-items: center;
+      /* justify-content: center; */
+      min-height: 37vh;
+      margin: 0;
+}
+
+.dp {
+    font-style: bold;
+    font-size: 14px;
+    color: rgb(7, 7, 7);
+
+}
+
+.road{
+overflow-y: scroll;
+/* overflow: hidden; */
+height: 442px;
+}
+
+button {
+  background-color: #393d5c;
+      border: 0;
+      border-radius: 5px;
+      color: #fff;
+      margin-bottom: 30%;
+      font-size: 14px;
+      padding: 10px 25px;
+      -webkit-box-shadow: 4px 1px 8px 6px #000000;
+      box-shadow: 4px 1px 8px 6px #000000;
+}
+
+.modal-container {
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    opacity: 0;
+    pointer-events: none;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.modal-container.show {
+    pointer-events: auto;
+    opacity: 1;
+}
+
+.modal {
+  background-color: #fff;
+  border-radius: 48px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
+  padding: 26px 1px;
+  width: 375px;
+  max-width: 40%;
+  text-align: center;
+}
+
+.modal h1 {
+    margin: 0;
+}
+
+.modal p {
+  opacity: 0.9;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+h1 {
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+    font-family: inherit;
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: center;
+}
+
+.messagecontainer {
+  wwidth: 100%;
+    max-width: 750px;
+    height: 72vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background-color: transparent !important;
+    padding: 14px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+#chatbox {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#typing {
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 40%;*/
+    margin-top: 10px;
+    visibility: visible;
+}
+
+#userInput {
+  background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /* top: 751px; */
+    /* width: 40%; */
+    margin-top: %;
+    border: 2px solid white;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#textInput {
+    width: 90%;
+    border: none;
+    border-bottom: 3px solid #1e5a72;
+    font-family: monospace;
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 4px;
+}
+
+#buttonInput {
+    /* padding: 3px;
+    font-family: monospace; */
+    font-size: 17px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: #1e5a72;
+}
+
+.chatSuggest {
+    padding: 3px;
+    margin-top: 15px;
+    margin-right: 15px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 2px 2px 1px #545454;
+    box-shadow: 2px 2px 2px 1px #545454;
+    background: #da910b;
+    cursor: pointer;
+}
+
+.userText {
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 20px;
+    background-color: #1e5a72;
+    padding: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin-left: 25%;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 6px 21px 8px -2px rgba(0, 0, 0, 0.29);
+    box-shadow: 0px 10px 13px -7px #000000, 6px 21px 8px -2px rgba(0, 0, 0, 0.29);
+}
+
+.botText {
+    background-color: #ad812f;
+    color: black;
+    font-family: monospace;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    min-height: 68px;
+    margin-right: 25%;
+    margin-bottom: 2px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 6px 21px 8px -2px rgba(0, 0, 0, 0.29);
+    box-shadow: 0px 10px 13px -7px #000000, 6px 21px 8px -2px rgba(0, 0, 0, 0.29);
+}
+
+.avatar {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    max-width: 64px;
+    max-height: 96px;
+}
+
+#tidbit {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+}
